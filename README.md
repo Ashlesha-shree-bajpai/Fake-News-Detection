@@ -137,19 +137,6 @@ else:
 
 print(Y_test[3])
 
-
-
- 
-
- 
- 
- 
- 
- 
- 
- 
-  
-
 🤝 Contributing
 
 Contributions are welcome!
